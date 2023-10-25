@@ -11,4 +11,9 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
+	{
+		"name" : "mi_proyecto",
+		"version": "1.0.0",
+		"author": "julian"
+	}
 }
